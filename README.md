@@ -1,4 +1,4 @@
-# Make Decks
+# http://decks.github.io
 
 
 [![Build Status](https://img.shields.io/github/workflow/status/Lattyware/makedecks/Build%20and%20publish%20to%20GitHub.)](https://github.com/Lattyware/makedecks/actions)
